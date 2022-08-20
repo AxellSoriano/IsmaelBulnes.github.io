@@ -1,6 +1,5 @@
-# Misty Blunch's Porfolio
+# ismael portafolio
 
-##### Simple portfolio made with HTML5, CSS, Bulma Framework and JS.
-##### You can clone it and create your own portfolio too :squirrel:
+##### personal trainer el mejor 
 
-###### Made with :heart:
+
