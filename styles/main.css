@@ -106,7 +106,7 @@ a:hover {
 }
 
 .hero-princ-content.text .title::after {
-  content: "(MistyBlunch)";
+  content: "(Personal Trainer)";
   font-size: 25px;
   font-family: var(--schoolbell);
 }
@@ -171,8 +171,8 @@ a:hover {
 }
 
 .about-img {
-  width: 200px;
-  height: 200px;
+  width: 400px;
+  height: 400px;
   display: flex;
   margin: auto;
 }
